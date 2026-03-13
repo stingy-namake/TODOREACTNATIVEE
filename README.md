@@ -1,24 +1,33 @@
-# Todo App
+# ✅ Todo App
 
-Um aplicativo simples de lista de tarefas em React Native.
+<div align="center">
+  
+  *A simple, clean task management app built with React Native*
+  
+  [![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+  [![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)](https://expo.dev/)
+  
+</div>
 
-## Como rodar
+## 🚀 Quick Start
 
-1. Instala as dependências:
 ```bash
+# Install dependencies
 npm install
-```
 
-2. Executa o app:
-```bash
+# Run the app
 npm run web
 ```
 
-O app abre com uma tela de boas-vindas. Clica em "GO" para acessar a lista de tarefas.
+## 📱 How It Works
 
-## Funcionalidades
+1. App opens with a welcome screen
+2. Click **"GO"** to access your todo list
+3. Start managing your tasks!
 
-- Adicionar tarefas
-- Editar tarefas
-- Excluir tarefas
-- Interface simples e direta
+## ✨ Features
+
+- ➕ **Add** new tasks
+- ✏️ **Edit** existing tasks
+- 🗑️ **Delete** completed tasks
+- 🎯 Simple, intuitive interface
